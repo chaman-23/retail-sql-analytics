@@ -1,0 +1,5 @@
+customer_id,region,completed_orders,net_sales_usd,segment
+C01,West,2,155.0,Repeat
+C04,South,1,135.0,One-time
+C03,West,1,100.0,One-time
+C02,North,1,70.0,One-time
